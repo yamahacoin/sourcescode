@@ -1,0 +1,9 @@
+Building yamahacoin
+
+See doc/readme-qt.rst for instructions on building yamahacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of yamahacoin.
+
+See doc/build-*.txt for instructions on building yamahacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of yamahacoin.
